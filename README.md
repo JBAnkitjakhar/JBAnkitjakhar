@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbankitjakhar&label=Profile%20views&color=0e75b6&style=flat" alt="jbankitjakhar" /> </p>
 
-- 🌱 I’m currently learning **ALGORITHMS and full stack technologies**
+- 🌱 I’m currently learning **ALGORITHMS and full stack blockchain technologies**
 
 - 💬 Ask me about **java,DSA**
 
