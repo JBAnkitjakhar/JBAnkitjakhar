@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbankitjakhar&label=Profile%20views&color=0e75b6&style=flat" alt="jbankitjakhar" /> </p>
 
-- 🌱 I’m currently learning **Data Structures And Algorithms And also building a website for DSA Learning and execution code purposes**
+- 🌱 I’m currently learning **Data Structures And Algorithms And also building a website for DSA Learning, execution code and visualization purposes**
 
 - 💬 Ask me about **java,DSA**
 
