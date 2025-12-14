@@ -70,8 +70,6 @@
 
 </div>
 
-**⭐ From [jbankitjakhar](https://github.com/jbankitjakhar) | Feel free to reach out for collaboration!**
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
